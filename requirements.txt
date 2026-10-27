@@ -1,0 +1,5 @@
+# 核心依赖：haiku.rag 会连带安装 docling、lancedb、pydantic-ai 等
+haiku.rag==0.98.0
+
+# 本地嵌入后端（sentence-transformers）
+sentence-transformers>=5.0,<6.0

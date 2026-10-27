@@ -1,0 +1,13 @@
+{
+  "corpus_papers_total": 1000,
+  "scorable_queries_total": 2062,
+  "papers_selected": 20,
+  "queries_kept": 199,
+  "queries_without_answer": 0,
+  "estimated_chunks": 2420,
+  "query_type_breakdown": {
+    "extractive": 139,
+    "abstractive": 60
+  },
+  "dropped_image_queries": true
+}

@@ -1,0 +1,79 @@
+# haiku.rag 配置：最终档（只在 L2 出最终数字时使用）
+#
+# 与 haiku.rag.yaml 的差别仅在解析质量。嵌入模型必须保持一致——两档若用不同嵌入器，
+# 数据库不能互相打开，等于两套独立语料。
+#
+# 用法：haiku-rag --config haiku.rag.final.yaml <command>
+#      注意 --config 是全局参数，必须写在子命令之前。
+
+environment: production
+
+embeddings:
+  model:
+    # 与开发档严格一致，否则 L2 库无法被开发档的脚本读取。
+    provider: sentence-transformers
+    # 指向本地目录：本机 huggingface_hub 缓存无法创建快照符号链接，
+    # 用仓库 ID 会下载成功但快照目录为空，加载时报 tokenizer 错误。
+    # 目录由 scripts/fetch_models.py 用 local_dir 模式下载。
+    name: ./models/bge-small-en-v1.5
+    vector_dim: 384
+
+qa:
+  model:
+    provider: ollama
+    # 用 16k 上下文 + presence_penalty 0 的变体：Ollama 运行时默认 num_ctx 仅 4096，
+    # 装不下 10 KB 系统提示 + 检索块，模型会丢失问题；模型自带 presence_penalty 1.5
+    # 会惩罚问题中的词、导致话题漂移（均为 D1 实测）。
+    # 由 `ollama create qwen35-9b-16k` 从 qwen3.5:9b-q4_K_M 派生。
+    name: qwen35-9b-16k
+    thinking: false
+    temperature: 0.3
+    vision: false
+    max_tokens: 4096
+
+processing:
+  converter: docling-local
+  chunk_size: 256
+  chunker_type: hybrid
+  chunking_merge_peers: true
+  # 分词器同样指向本地目录，避免同一个符号链接问题。
+  chunking_tokenizer: ./models/bge-small-en-v1.5
+  split_pages: 10
+
+  conversion_options:
+    # 最终档：版面与阅读顺序更准，引用框定位更可信，代价是更慢。
+    pdf_backend: docling_parse
+    # 仍关闭 OCR：arXiv 有文本层。若个别文档解析为空，单独用 force_ocr 重跑该篇。
+    do_ocr: false
+    force_ocr: false
+    do_table_structure: true
+    # 论文实验表格是重要证据，最终档用 accurate。
+    table_mode: accurate
+    # 1.5 的像素面积约为 1.0 的 2.25 倍，换取更清晰的引用高亮。
+    images_scale: 1.5
+    generate_page_images: true
+
+search:
+  limit: 5
+  max_context_chars: 5000
+  rerank_pool_factor: 10
+
+storage:
+  auto_vacuum: true
+  vacuum_retention_seconds: 86400
+  compaction_target_bytes: 1073741824
+
+# 仅评测 harness 使用。默认 judge 是 ollama:qwen3.8，本机没有该模型，
+# 不覆盖会导致评测跑到一半报「模型不存在」。
+# 注意：让答题模型同时当裁判会有自评偏差，报告中必须写明裁判是谁。
+evaluations:
+  judge:
+    provider: ollama
+    # 用 16k 上下文 + presence_penalty 0 的变体：Ollama 运行时默认 num_ctx 仅 4096，
+    # 装不下 10 KB 系统提示 + 检索块，模型会丢失问题；模型自带 presence_penalty 1.5
+    # 会惩罚问题中的词、导致话题漂移（均为 D1 实测）。
+    # 由 `ollama create qwen35-9b-16k` 从 qwen3.5:9b-q4_K_M 派生。
+    name: qwen35-9b-16k
+    thinking: false
+    temperature: 0
+    vision: false

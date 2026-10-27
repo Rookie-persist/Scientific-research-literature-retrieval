@@ -1,0 +1,8 @@
+# 统一换行符，避免跨平台 diff 噪声
+* text=auto eol=lf
+
+# 二进制
+*.pdf binary
+*.png binary
+*.jpg binary
+*.lance binary

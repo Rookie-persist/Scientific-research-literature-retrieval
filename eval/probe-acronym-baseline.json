@@ -1,0 +1,194 @@
+[
+ {
+  "acro": "NER",
+  "expansion": "Spoken Named Entity Recognition",
+  "gold": "file:///D:/workbuddy/Workspace/RAG/haiku.rag-main/orb_subset/pdfs/smoke/2406.13337v3.pdf",
+  "form": "acro",
+  "query": "What is NER?",
+  "rank": 1
+ },
+ {
+  "acro": "NER",
+  "expansion": "Spoken Named Entity Recognition",
+  "gold": "file:///D:/workbuddy/Workspace/RAG/haiku.rag-main/orb_subset/pdfs/smoke/2406.13337v3.pdf",
+  "form": "full",
+  "query": "What is Spoken Named Entity Recognition?",
+  "rank": 1
+ },
+ {
+  "acro": "WISE",
+  "expansion": "Weighted Instruction Sensitivity Evaluation",
+  "gold": "file:///D:/workbuddy/Workspace/RAG/haiku.rag-main/orb_subset/pdfs/smoke/2410.23841v2.pdf",
+  "form": "acro",
+  "query": "What is WISE?",
+  "rank": 2
+ },
+ {
+  "acro": "WISE",
+  "expansion": "Weighted Instruction Sensitivity Evaluation",
+  "gold": "file:///D:/workbuddy/Workspace/RAG/haiku.rag-main/orb_subset/pdfs/smoke/2410.23841v2.pdf",
+  "form": "full",
+  "query": "What is Weighted Instruction Sensitivity Evaluation?",
+  "rank": 1
+ },
+ {
+  "acro": "SICR",
+  "expansion": "Strict Instruction Compliance Ratio",
+  "gold": "file:///D:/workbuddy/Workspace/RAG/haiku.rag-main/orb_subset/pdfs/smoke/2410.23841v2.pdf",
+  "form": "acro",
+  "query": "What is SICR?",
+  "rank": 1
+ },
+ {
+  "acro": "SICR",
+  "expansion": "Strict Instruction Compliance Ratio",
+  "gold": "file:///D:/workbuddy/Workspace/RAG/haiku.rag-main/orb_subset/pdfs/smoke/2410.23841v2.pdf",
+  "form": "full",
+  "query": "What is Strict Instruction Compliance Ratio?",
+  "rank": 1
+ },
+ {
+  "acro": "PSID81",
+  "expansion": "Panel Study of Income Dynamics",
+  "gold": "file:///D:/workbuddy/Workspace/RAG/haiku.rag-main/orb_subset/pdfs/smoke/2406.17972v3.pdf",
+  "form": "acro",
+  "query": "What is PSID81?",
+  "rank": 1
+ },
+ {
+  "acro": "PSID81",
+  "expansion": "Panel Study of Income Dynamics",
+  "gold": "file:///D:/workbuddy/Workspace/RAG/haiku.rag-main/orb_subset/pdfs/smoke/2406.17972v3.pdf",
+  "form": "full",
+  "query": "What is Panel Study of Income Dynamics?",
+  "rank": 1
+ },
+ {
+  "acro": "LMM",
+  "expansion": "Large Multimodal Models",
+  "gold": "file:///D:/workbuddy/Workspace/RAG/haiku.rag-main/orb_subset/pdfs/smoke/2403.20331v2.pdf",
+  "form": "acro",
+  "query": "What is LMM?",
+  "rank": 1
+ },
+ {
+  "acro": "LMM",
+  "expansion": "Large Multimodal Models",
+  "gold": "file:///D:/workbuddy/Workspace/RAG/haiku.rag-main/orb_subset/pdfs/smoke/2403.20331v2.pdf",
+  "form": "full",
+  "query": "What is Large Multimodal Models?",
+  "rank": 1
+ },
+ {
+  "acro": "AAD",
+  "expansion": "Absent Answer Detection",
+  "gold": "file:///D:/workbuddy/Workspace/RAG/haiku.rag-main/orb_subset/pdfs/smoke/2403.20331v2.pdf",
+  "form": "acro",
+  "query": "What is AAD?",
+  "rank": 1
+ },
+ {
+  "acro": "AAD",
+  "expansion": "Absent Answer Detection",
+  "gold": "file:///D:/workbuddy/Workspace/RAG/haiku.rag-main/orb_subset/pdfs/smoke/2403.20331v2.pdf",
+  "form": "full",
+  "query": "What is Absent Answer Detection?",
+  "rank": 1
+ },
+ {
+  "acro": "IVQD",
+  "expansion": "Incompatible Visual Question Detection",
+  "gold": "file:///D:/workbuddy/Workspace/RAG/haiku.rag-main/orb_subset/pdfs/smoke/2403.20331v2.pdf",
+  "form": "acro",
+  "query": "What is IVQD?",
+  "rank": 1
+ },
+ {
+  "acro": "IVQD",
+  "expansion": "Incompatible Visual Question Detection",
+  "gold": "file:///D:/workbuddy/Workspace/RAG/haiku.rag-main/orb_subset/pdfs/smoke/2403.20331v2.pdf",
+  "form": "full",
+  "query": "What is Incompatible Visual Question Detection?",
+  "rank": 1
+ },
+ {
+  "acro": "IASD",
+  "expansion": "Incompatible Answer Set Detection",
+  "gold": "file:///D:/workbuddy/Workspace/RAG/haiku.rag-main/orb_subset/pdfs/smoke/2403.20331v2.pdf",
+  "form": "acro",
+  "query": "What is IASD?",
+  "rank": 1
+ },
+ {
+  "acro": "IASD",
+  "expansion": "Incompatible Answer Set Detection",
+  "gold": "file:///D:/workbuddy/Workspace/RAG/haiku.rag-main/orb_subset/pdfs/smoke/2403.20331v2.pdf",
+  "form": "full",
+  "query": "What is Incompatible Answer Set Detection?",
+  "rank": 1
+ },
+ {
+  "acro": "UPD",
+  "expansion": "Unsolvable Problem Detection",
+  "gold": "file:///D:/workbuddy/Workspace/RAG/haiku.rag-main/orb_subset/pdfs/smoke/2403.20331v2.pdf",
+  "form": "acro",
+  "query": "What is UPD?",
+  "rank": 1
+ },
+ {
+  "acro": "UPD",
+  "expansion": "Unsolvable Problem Detection",
+  "gold": "file:///D:/workbuddy/Workspace/RAG/haiku.rag-main/orb_subset/pdfs/smoke/2403.20331v2.pdf",
+  "form": "full",
+  "query": "What is Unsolvable Problem Detection?",
+  "rank": 1
+ },
+ {
+  "acro": "PSID",
+  "expansion": "Panel Study of Income Dynamics",
+  "gold": "file:///D:/workbuddy/Workspace/RAG/haiku.rag-main/orb_subset/pdfs/smoke/2406.17972v3.pdf",
+  "form": "acro",
+  "query": "What is PSID?",
+  "rank": 1
+ },
+ {
+  "acro": "PSID",
+  "expansion": "Panel Study of Income Dynamics",
+  "gold": "file:///D:/workbuddy/Workspace/RAG/haiku.rag-main/orb_subset/pdfs/smoke/2406.17972v3.pdf",
+  "form": "full",
+  "query": "What is Panel Study of Income Dynamics?",
+  "rank": 1
+ },
+ {
+  "acro": "TBA",
+  "expansion": "Thermodynamic Bethe Ansatz",
+  "gold": "file:///D:/workbuddy/Workspace/RAG/haiku.rag-main/orb_subset/pdfs/smoke/2410.23209v2.pdf",
+  "form": "acro",
+  "query": "What is TBA?",
+  "rank": 1
+ },
+ {
+  "acro": "TBA",
+  "expansion": "Thermodynamic Bethe Ansatz",
+  "gold": "file:///D:/workbuddy/Workspace/RAG/haiku.rag-main/orb_subset/pdfs/smoke/2410.23209v2.pdf",
+  "form": "full",
+  "query": "What is Thermodynamic Bethe Ansatz?",
+  "rank": 1
+ },
+ {
+  "acro": "RFR",
+  "expansion": "Random Forest Regression",
+  "gold": "file:///D:/workbuddy/Workspace/RAG/haiku.rag-main/orb_subset/pdfs/smoke/2412.15448v2.pdf",
+  "form": "acro",
+  "query": "What is RFR?",
+  "rank": 1
+ },
+ {
+  "acro": "RFR",
+  "expansion": "Random Forest Regression",
+  "gold": "file:///D:/workbuddy/Workspace/RAG/haiku.rag-main/orb_subset/pdfs/smoke/2412.15448v2.pdf",
+  "form": "full",
+  "query": "What is Random Forest Regression?",
+  "rank": 2
+ }
+]

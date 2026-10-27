@@ -1,0 +1,32 @@
+{"original": "metformin dosage recommendation type 2 diabetes", "rewritten": "metformin dosage recommendation type 2 diabetes", "expansions": [], "unknown_terms": ["metformin", "dosage"], "policy": "starve", "limit": 10}
+{"original": "metformin dosage type 2 diabetes treatment guidelines", "rewritten": "metformin dosage type 2 diabetes treatment guidelines", "expansions": [], "unknown_terms": ["metformin", "dosage"], "policy": "starve", "limit": 10}
+{"original": "metformin dosage type 2 diabetes", "rewritten": "metformin dosage type 2 diabetes", "expansions": [], "unknown_terms": ["metformin", "dosage"], "policy": "starve", "limit": 10}
+{"original": "2022 FIFA World Cup final winner", "rewritten": "2022 FIFA World Cup final winner", "expansions": [], "unknown_terms": ["fifa", "winner"], "policy": "starve", "limit": 5}
+{"original": "FIFA World Cup 2022 final match result", "rewritten": "FIFA World Cup 2022 final match result", "expansions": [], "unknown_terms": ["fifa"], "policy": "starve", "limit": 5}
+{"original": "World Cup 2022 champion team", "rewritten": "World Cup 2022 champion team", "expansions": [], "unknown_terms": [], "policy": "starve", "limit": 5}
+{"original": "FlashAttention-3 H100 speedup", "rewritten": "FlashAttention-3 H100 speedup", "expansions": [], "unknown_terms": ["flashattention-"], "policy": "starve", "limit": 5}
+{"original": "FlashAttention-3 performance benchmark H100", "rewritten": "FlashAttention-3 performance benchmark H100", "expansions": [], "unknown_terms": ["flashattention-"], "policy": "starve", "limit": 5}
+{"original": "FlashAttention-3 speedup", "rewritten": "FlashAttention-3 speedup", "expansions": [], "unknown_terms": ["flashattention-"], "policy": "starve", "limit": 5}
+{"original": "FlashAttention", "rewritten": "FlashAttention", "expansions": [], "unknown_terms": ["flashattention"], "policy": "starve", "limit": 5}
+{"original": "melting point of tungsten degrees Celsius", "rewritten": "melting point of tungsten degrees Celsius", "expansions": [], "unknown_terms": ["melting", "tungsten", "celsius"], "policy": "starve", "limit": 5}
+{"original": "tungsten melting point", "rewritten": "tungsten melting point", "expansions": [], "unknown_terms": ["tungsten", "melting"], "policy": "starve", "limit": 5}
+{"original": "recommended first-line treatment hypertension adults", "rewritten": "recommended first-line treatment hypertension adults", "expansions": [], "unknown_terms": [], "policy": "starve", "limit": 10}
+{"original": "hypertension treatment guidelines first-line therapy adults", "rewritten": "hypertension treatment guidelines first-line therapy adults", "expansions": [], "unknown_terms": [], "policy": "starve", "limit": 10}
+{"original": "hypertension first-line treatment antihypertensive drugs adults guidelines", "rewritten": "hypertension first-line treatment antihypertensive drugs adults guidelines", "expansions": [], "unknown_terms": [], "policy": "starve", "limit": 10}
+{"original": "first line antihypertensive drugs class of choice hypertension management adults 2017 2023 guidelines", "rewritten": "first line antihypertensive drugs class of choice hypertension management adults 2017 2023 guidelines", "expansions": [], "unknown_terms": [], "policy": "starve", "limit": 10}
+{"original": "Jupiter moons count", "rewritten": "Jupiter moons count", "expansions": [], "unknown_terms": ["jupiter", "moons"], "policy": "starve", "limit": 5}
+{"original": "number of Jupiter's natural satellites", "rewritten": "number of Jupiter's natural satellites", "expansions": [], "unknown_terms": ["jupiter"], "policy": "starve", "limit": 5}
+{"original": "Jupiter moons", "rewritten": "Jupiter moons", "expansions": [], "unknown_terms": ["jupiter", "moons"], "policy": "starve", "limit": 5}
+{"original": "capital of Australia", "rewritten": "capital of Australia", "expansions": [], "unknown_terms": [], "policy": "starve", "limit": 5}
+{"original": "symptoms of vitamin D deficiency", "rewritten": "symptoms of vitamin D deficiency", "expansions": [], "unknown_terms": [], "policy": "starve", "limit": 5}
+{"original": "vitamin D deficiency symptoms fatigue bone pain muscle weakness", "rewritten": "vitamin D deficiency symptoms fatigue bone pain muscle weakness", "expansions": [], "unknown_terms": ["bone"], "policy": "starve", "limit": 5}
+{"original": "vitamin D deficiency symptoms", "rewritten": "vitamin D deficiency symptoms", "expansions": [], "unknown_terms": [], "policy": "starve", "limit": 5}
+{"original": "vitamin D deficiency symptoms fatigue bone pain muscle weakness depression", "rewritten": "vitamin D deficiency symptoms fatigue bone pain muscle weakness depression", "expansions": [], "unknown_terms": ["bone", "depression"], "policy": "starve", "limit": 5}
+{"original": "bake sourdough bread at home recipe steps", "rewritten": "bake sourdough bread at home recipe steps", "expansions": [], "unknown_terms": [], "policy": "starve", "limit": 10}
+{"original": "sourdough bread recipe starter ingredients kneading proofing baking steps", "rewritten": "sourdough bread recipe starter ingredients kneading proofing baking steps", "expansions": [], "unknown_terms": ["kneading"], "policy": "starve", "limit": 10}
+{"original": "sourdough bread recipe how to make at home step by step", "rewritten": "sourdough bread recipe how to make at home step by step", "expansions": [], "unknown_terms": [], "policy": "starve", "limit": 10}
+{"original": "bread recipe flour yeast water kneading bake", "rewritten": "bread recipe flour yeast water kneading bake", "expansions": [], "unknown_terms": ["flour", "yeast", "kneading"], "policy": "starve", "limit": 10}
+{"original": "cooking recipe baking bread food preparation instructions", "rewritten": "cooking recipe baking bread food preparation instructions", "expansions": [], "unknown_terms": [], "policy": "starve", "limit": 10}
+{"original": "United States inflation rate 1997", "rewritten": "United States inflation rate 1997", "expansions": [], "unknown_terms": [], "policy": "starve", "limit": 5}
+{"original": "inflation rate 1997 United States percentage", "rewritten": "inflation rate 1997 United States percentage", "expansions": [], "unknown_terms": [], "policy": "starve", "limit": 5}
+{"original": "inflation rate 1997 United States CPI percentage", "rewritten": "inflation rate 1997 United States CPI percentage", "expansions": [], "unknown_terms": ["cpi"], "policy": "starve", "limit": 5}

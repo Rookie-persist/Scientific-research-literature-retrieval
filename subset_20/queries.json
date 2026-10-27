@@ -1,0 +1,997 @@
+{
+  "74aa3150-1253-42dc-aaaf-8b1cb9e96455": {
+    "query": "Are Bayesian persuasion and cheap talk equivalent under the learning agent model?",
+    "type": "extractive",
+    "source": "text"
+  },
+  "a29439e2-39da-475f-8595-18bb44b4ffac": {
+    "query": "What is the range of the principal's achievable utility in generalized principal-agent problems with a contextual no-swap-regret learning agent?",
+    "type": "extractive",
+    "source": "text"
+  },
+  "5873f614-bd62-43b2-912d-7f3c2890f048": {
+    "query": "Does the sender observe the state of the world before sending a signal?",
+    "type": "extractive",
+    "source": "text"
+  },
+  "96c9ec19-be6a-416f-94c7-d9121966fd0e": {
+    "query": "What type of algorithm does the agent use to decide on actions?",
+    "type": "extractive",
+    "source": "text"
+  },
+  "e84891a6-10a3-44b8-a8e4-8a914e392ef5": {
+    "query": "Can the agent's strategy be randomized in this model?",
+    "type": "extractive",
+    "source": "text"
+  },
+  "28751ff5-439d-44e6-bc26-1a69094c85e2": {
+    "query": "Is it possible for a principal to achieve more than the \"maxmax\" objective with certain learning algorithms?",
+    "type": "extractive",
+    "source": "text"
+  },
+  "db485af5-6df7-40ec-b2e7-ee489b039cfe": {
+    "query": "Is the probability that the receiver chooses any not $\\gamma$-approximately optimal action at most $\\frac{1}{\\lambda}$?",
+    "type": "extractive",
+    "source": "text"
+  },
+  "d592dbe2-711c-4538-a23a-8450accf69aa": {
+    "query": "Is it possible for an agent to have zero swap regret using a contextual no-swap-regret algorithm?",
+    "type": "extractive",
+    "source": "text"
+  },
+  "c8c9f373-0fd8-4c6a-9eb9-f542b362c42a": {
+    "query": "Is there an upper bound for payments to agents in contract design?",
+    "type": "extractive",
+    "source": "text"
+  },
+  "e713c2e0-628c-485d-ae53-6d1eee1c07fb": {
+    "query": "Does the model of the generalized principal-agent problem involve Stackelberg games?",
+    "type": "extractive",
+    "source": "text"
+  },
+  "de261def-2005-4f68-90cb-fc51b65ef12d": {
+    "query": "Does the probabilistic counter use more than $\\mathcal{O}(1)$ bits to detect if it has exceeded a threshold?",
+    "type": "extractive",
+    "source": "text"
+  },
+  "6f441cc1-412c-44ae-aee6-c88cde6614f3": {
+    "query": "What happens to outgoing transitions from the final state in an rDFA for a suffix-free language?",
+    "type": "extractive",
+    "source": "text"
+  },
+  "3d0f0900-fea5-4a70-b8f5-ebceefe4c3f4": {
+    "query": "Is streaming pattern matching related to regular languages in the sliding window model?",
+    "type": "extractive",
+    "source": "text"
+  },
+  "dcbb6ebc-cdbf-4f1b-9afd-c831d37443d2": {
+    "query": "Can regular languages be recognized using constant space in streaming algorithms?",
+    "type": "extractive",
+    "source": "text"
+  },
+  "b2a84f67-2f0b-476b-817e-ea19f0bf9493": {
+    "query": "What is a well-behaved rDFA?",
+    "type": "extractive",
+    "source": "text"
+  },
+  "05073e83-84a3-4a25-969b-ab8067a9fcbd": {
+    "query": "What does it mean for two words to be separated by a language?",
+    "type": "abstractive",
+    "source": "text"
+  },
+  "488ae0bf-c19b-4cc6-9a37-47e271ea138a": {
+    "query": "Are the complexities of membership problems for the class $\\langle\\mathbf{S T}, \\mathbf{S F}, \\mathbf{L e n}\\rangle$ known?",
+    "type": "extractive",
+    "source": "text"
+  },
+  "5d0858d8-059c-4c8a-a5c4-96c5fd585394": {
+    "query": "Is the greater-than function's randomized one-way communication complexity $\\Theta(\\log n)$?",
+    "type": "extractive",
+    "source": "text"
+  },
+  "3b4f92fc-973e-45a6-9bcf-d5c1b33447d6": {
+    "query": "How do randomized streaming algorithms differ from deterministic ones regarding space complexity?",
+    "type": "abstractive",
+    "source": "text"
+  },
+  "62434135-dbfc-4147-9aeb-f3f036d791f6": {
+    "query": "Is the prefix distance always greater than or equal to the Hamming distance?",
+    "type": "extractive",
+    "source": "text"
+  },
+  "df4589d1-049a-4b41-ba3b-aa1f9ae4d6e5": {
+    "query": "What does MM-UPD Bench stand for?",
+    "type": "extractive",
+    "source": "text"
+  },
+  "117a8a07-ce3a-49d6-b282-e05e5f62a94e": {
+    "query": "Is detailed justification required when refining problems during the curation process?",
+    "type": "extractive",
+    "source": "text"
+  },
+  "82c4e92d-ad65-40cb-a77c-8eb9b4106ad8": {
+    "query": "Is there a strong correlation between OC-Dual accuracy and Dual accuracy?",
+    "type": "extractive",
+    "source": "text"
+  },
+  "1e4c9bb1-f974-4df7-8ad6-a216e8ed0369": {
+    "query": "Does self-reflection allow models to evaluate their own answers?",
+    "type": "extractive",
+    "source": "text"
+  },
+  "9af4b740-5e42-4094-83d0-dcce178e28fb": {
+    "query": "What activity involves using ropes and harnesses on a cliff face?",
+    "type": "extractive",
+    "source": "text"
+  },
+  "bbb3370d-c0c3-459d-a09b-4effd51bed6e": {
+    "query": "Why is Dual accuracy considered effective for assessing LMMs' reliability?",
+    "type": "abstractive",
+    "source": "text"
+  },
+  "f2729d71-0c0b-4be8-9da9-501a29dbfd28": {
+    "query": "What is the purpose of Unsolvable Problem Detection (UPD)?",
+    "type": "abstractive",
+    "source": "text"
+  },
+  "e3c274b9-d37f-4469-811e-629fcfa37aa6": {
+    "query": "Does UPD-specific training affect the performance of general tasks?",
+    "type": "extractive",
+    "source": "text"
+  },
+  "49835c3c-8933-4e72-b7ee-914ddc1ccd4e": {
+    "query": "Do closed-source models offer a better response than open-source models in this evaluation?",
+    "type": "extractive",
+    "source": "text"
+  },
+  "911d66e9-71a0-4607-920e-fe499f57de5e": {
+    "query": "How does UPD differ from traditional multiple-choice question answering for LMMs?",
+    "type": "abstractive",
+    "source": "text"
+  },
+  "9914e7cf-14f8-4a64-85f4-c35de05fdec9": {
+    "query": "Why is Cobb-Douglas technology significant in studying aggregate output fluctuations?",
+    "type": "abstractive",
+    "source": "text"
+  },
+  "cf975604-6107-474f-8318-e195fd1055bd": {
+    "query": "Does national income $B$ change with variations in price index $I(\\boldsymbol{p})$?",
+    "type": "extractive",
+    "source": "text"
+  },
+  "a826f574-7c49-49e5-b1fc-99ada6a74554": {
+    "query": "What conditions lead to synergism in Domar aggregation of productivity shocks?",
+    "type": "abstractive",
+    "source": "text"
+  },
+  "41a2bed3-9afa-46d7-a93e-f00da70e241d": {
+    "query": "Can a singular Leontief matrix have all positive or all negative solutions in its equations?",
+    "type": "extractive",
+    "source": "text"
+  },
+  "98a3354c-c20b-4e2f-aa94-2b37d8bf7323": {
+    "query": "Why might a production network become singular due to substitution elasticity?",
+    "type": "abstractive",
+    "source": "text"
+  },
+  "8dccacc9-903d-4fe2-8c51-a566e91417e1": {
+    "query": "Does a neutroelastic network transform with productivity shocks?",
+    "type": "extractive",
+    "source": "text"
+  },
+  "1ae40b85-acfe-43cb-8d1b-c503c25a50b1": {
+    "query": "Can negative singularity occur with productivity-diminishing innovations?",
+    "type": "extractive",
+    "source": "text"
+  },
+  "0037d2b2-ab5a-435a-8554-c2e7fd81b390": {
+    "query": "How do sectoral productivity shocks influence overall economic output?",
+    "type": "abstractive",
+    "source": "text"
+  },
+  "5bbcd0e0-4415-4341-9367-d3bac2d15b4d": {
+    "query": "Is the unit cost function homogeneous of the first order in prices $p_0, p_1, \\cdots, p_n$?",
+    "type": "extractive",
+    "source": "text"
+  },
+  "aa988c19-a36a-4dd6-aaf3-9fe5e08cde3d": {
+    "query": "Does economic singularity theory involve extreme exponential growth?",
+    "type": "extractive",
+    "source": "text"
+  },
+  "50b57580-cf2e-4834-bd0f-02387f3270fd": {
+    "query": "Do response-adaptive designs have a history in clinical trials?",
+    "type": "extractive",
+    "source": "text"
+  },
+  "2986abd0-fe8e-420b-b594-924bfb0e388a": {
+    "query": "Can consistent variance estimators derived via a super-population analysis be reasonable conservative variance estimators for finite populations?",
+    "type": "extractive",
+    "source": "text"
+  },
+  "742acd6a-914a-421a-9c97-ce28f1c19d47": {
+    "query": "Are treatments in cluster randomized experiments assigned at the individual level?",
+    "type": "extractive",
+    "source": "text"
+  },
+  "96cbf2ad-41cb-4115-96fd-f43167b2fa98": {
+    "query": "Who presents tests for treatment-covariate interactions under covariate-adaptive stratified randomization schemes?",
+    "type": "extractive",
+    "source": "text"
+  },
+  "b1b09fc4-0c6b-4d30-9f66-4a8e405bf6cb": {
+    "query": "What does an exposure mapping summarize in network experiments?",
+    "type": "abstractive",
+    "source": "text"
+  },
+  "6917a04f-ac7d-4192-8d54-17ed817804d0": {
+    "query": "What is one conventional solution to control false rejections across multiple null hypotheses?",
+    "type": "extractive",
+    "source": "text"
+  },
+  "d0221cf1-db9f-412d-ab91-e9a6ed59e23e": {
+    "query": "What is a challenge in variance estimation with finely stratified experiments?",
+    "type": "abstractive",
+    "source": "text"
+  },
+  "fa9948db-dc9d-4f26-aaf2-7e3bc926aa49": {
+    "query": "What framework is commonly used for analyzing randomized experiments with imperfect compliance?",
+    "type": "extractive",
+    "source": "text"
+  },
+  "f8ad29a5-76b9-4749-a414-b6d32f63829b": {
+    "query": "Are there any studies that extend analysis to settings with multiple treatments in randomized experiments?",
+    "type": "extractive",
+    "source": "text"
+  },
+  "2e093841-e9d8-4ca1-a6e7-ab859d19712d": {
+    "query": "Are there recent advances that establish asymptotic validity for randomization tests with \"weak\" nulls?",
+    "type": "extractive",
+    "source": "text"
+  },
+  "01416eb6-2408-491e-a971-5647f51d7af8": {
+    "query": "What are the components used to calculate WER?",
+    "type": "extractive",
+    "source": "text"
+  },
+  "1342fea1-56ed-409e-8ebf-236d797eb728": {
+    "query": "Does the DATETIME entity type include words describing a time frame?",
+    "type": "extractive",
+    "source": "text"
+  },
+  "c1f3bfef-c4f5-4ec8-b547-6e7cfdbee83f": {
+    "query": "What is the significance of the VietMed-NER dataset in medical spoken named entity recognition?",
+    "type": "abstractive",
+    "source": "text"
+  },
+  "bc8f1136-3b5b-4489-96a1-c0a65c7336bd": {
+    "query": "What does the GENDER entity type describe?",
+    "type": "extractive",
+    "source": "text"
+  },
+  "52a64ec1-f1a0-43e4-b2d4-f1a16e0e4ede": {
+    "query": "Is there an analysis available for how KER and NEER are affected by varying WERs?",
+    "type": "extractive",
+    "source": "text"
+  },
+  "1782195b-2388-4052-8660-5d908873333d": {
+    "query": "What challenges are associated with spoken named entity recognition in the medical field?",
+    "type": "abstractive",
+    "source": "text"
+  },
+  "b05ded61-c3d2-4c72-814f-03fa86e94f5a": {
+    "query": "What are examples of general words that describe diagnostic procedures without mentioning surgery?",
+    "type": "abstractive",
+    "source": "text"
+  },
+  "6c95f2a6-fb8f-49ed-a7e6-ed4e021cc6b6": {
+    "query": "Are places that are not clearly identified or controversial labeled as locations?",
+    "type": "extractive",
+    "source": "text"
+  },
+  "82c28c9d-586d-4aa6-b069-9656a6dc224d": {
+    "query": "Does multi-lingual pre-training of the acoustic model affect cascaded NER performance?",
+    "type": "extractive",
+    "source": "text"
+  },
+  "dd3d85c8-4533-4902-ac3b-6f8afde1b3e4": {
+    "query": "Can cosmetics be considered chemical substances?",
+    "type": "extractive",
+    "source": "text"
+  },
+  "d9c7b174-5eda-45c6-83b4-8b38494c4da3": {
+    "query": "Should medical named entities be retained in summaries?",
+    "type": "extractive",
+    "source": "text"
+  },
+  "3de26f01-3246-4e1a-91b7-6de2b9af4496": {
+    "query": "Do summaries need to preserve questions from the original passage?",
+    "type": "extractive",
+    "source": "text"
+  },
+  "316acde9-dec7-4408-b3ce-04d2a3c2f090": {
+    "query": "What is the cost associated with generating around 6000 GPT summaries?",
+    "type": "extractive",
+    "source": "text-table"
+  },
+  "0d67b79e-0f64-4b1e-9d23-275a23f2e5f0": {
+    "query": "Does the process involve removing text generated by LLMs that could reveal patient identities?",
+    "type": "extractive",
+    "source": "text"
+  },
+  "f242252c-53ba-44a8-8224-4ea1be8d8088": {
+    "query": "Does ROUGE measure lexical overlap between candidate and reference summaries?",
+    "type": "extractive",
+    "source": "text"
+  },
+  "de514f73-0594-43a5-a9ed-358adf42c09f": {
+    "query": "What does the design generate after every N utterances of speech?",
+    "type": "extractive",
+    "source": "text"
+  },
+  "9fb4a042-9ec4-43e3-97b7-2ebecbfe667b": {
+    "query": "Do existing Vietnamese summarization datasets use titles and abstracts as summaries?",
+    "type": "extractive",
+    "source": "text"
+  },
+  "1b943b7c-4717-4201-83c0-af1f8209b50e": {
+    "query": "What is done to ensure privacy in medical data used for speech summarization?",
+    "type": "abstractive",
+    "source": "text"
+  },
+  "38d30d79-7724-4263-931c-b885e1f5ffd6": {
+    "query": "Why might businesses be interested in deploying this real-time speech summarization system?",
+    "type": "abstractive",
+    "source": "text"
+  },
+  "c0ac8436-8a72-47c1-9378-55814fb570c2": {
+    "query": "Is synthetic data used for all human-edited summaries?",
+    "type": "extractive",
+    "source": "text"
+  },
+  "f210906a-b4a4-4b97-84df-106214024650": {
+    "query": "How does incorporating demographic factors influence job transition predictions using LLMs?",
+    "type": "abstractive",
+    "source": "text"
+  },
+  "d170153a-7d5e-476c-ba33-6de0d2a76bdb": {
+    "query": "What is tokenization in the context of large language models (LLMs)?",
+    "type": "extractive",
+    "source": "text"
+  },
+  "73e5221b-147a-467b-a6c3-9efdd828cebb": {
+    "query": "How does the predictive performance of the CAREER model compare when using different lengths of career history data?",
+    "type": "abstractive",
+    "source": "text-table"
+  },
+  "85ced6b1-438a-4b14-b973-4b1b440e7028": {
+    "query": "Does fine-tuning smaller LLMs with additional career data surpass the performance of fine-tuning larger models?",
+    "type": "extractive",
+    "source": "text"
+  },
+  "8e8a20c2-12ee-49eb-bb8d-2b4b04bf04a4": {
+    "query": "What does the empirical transition frequency model estimate?",
+    "type": "abstractive",
+    "source": "text"
+  },
+  "1b6de0bc-db6b-4db1-a2f5-d134a1e2ee8f": {
+    "query": "Does the PSID81 dataset include information on race/ethnicity?",
+    "type": "extractive",
+    "source": "text"
+  },
+  "42baf452-048d-4a65-ba96-95b6cb5375df": {
+    "query": "How is job data structured in relation to training, validation, and test sets?",
+    "type": "abstractive",
+    "source": "text"
+  },
+  "30a0bf06-8d40-4a89-ba30-03582bbfb300": {
+    "query": "Is perplexity higher or lower for more accurate occupation models?",
+    "type": "extractive",
+    "source": "text"
+  },
+  "83d96ef0-bf1f-4e5c-9ed5-0cd33d4878d3": {
+    "query": "How is uncertainty in performance metrics quantified for occupation models?",
+    "type": "abstractive",
+    "source": "text"
+  },
+  "c1dfd0e6-2bbb-4220-a9fe-170a26a2a891": {
+    "query": "What is the main occupational information database in the United States?",
+    "type": "extractive",
+    "source": "text"
+  },
+  "38f35dde-0545-4414-8987-b7ed8d7eee32": {
+    "query": "How does the proposed new foundation aim to improve upon existing ones like ZFC?",
+    "type": "abstractive",
+    "source": "text"
+  },
+  "6632d19a-48c8-4624-aabc-65b6f925c905": {
+    "query": "Is working several levels above primitives beneficial in understanding set theory?",
+    "type": "extractive",
+    "source": "text"
+  },
+  "de8cac4a-ac29-474e-9200-1804533f62d7": {
+    "query": "Why might traditional axiomatic set theories be inconsistent with mainstream mathematics?",
+    "type": "abstractive",
+    "source": "text"
+  },
+  "e7cd8bf0-9d27-492e-a9b0-65278c047496": {
+    "query": "Did infinitesimals become problematic over time?",
+    "type": "extractive",
+    "source": "text"
+  },
+  "5c4c70d3-ccac-46ee-9f5f-e77a505207ef": {
+    "query": "Are definitions considered arbitrary constructs in mathematics?",
+    "type": "extractive",
+    "source": "text"
+  },
+  "6bc2ab72-a7ee-4cf6-a40f-4caf56d1533c": {
+    "query": "What does it mean for a foundation to be consistent?",
+    "type": "abstractive",
+    "source": "text"
+  },
+  "2a70ee21-b70e-4a8f-916e-d3ee5fb08883": {
+    "query": "What was the primary significance of foundations in ancient Greece?",
+    "type": "abstractive",
+    "source": "text"
+  },
+  "819457b4-44c1-4fc6-a93e-755e95d77105": {
+    "query": "What role does human intuition play in primitive levels of mathematics?",
+    "type": "abstractive",
+    "source": "text"
+  },
+  "b2ea508c-5015-4ec2-81a4-b76a25e68df0": {
+    "query": "How have historical developments influenced current mathematical foundations?",
+    "type": "abstractive",
+    "source": "text"
+  },
+  "0c62032a-81df-4ec9-a490-0e6823ccec10": {
+    "query": "What is an object generator in the context of deductive mathematics?",
+    "type": "abstractive",
+    "source": "text"
+  },
+  "48c71b08-847e-412c-a516-c529c60b475f": {
+    "query": "Does the selection of different spectral diffusion regularization factors show significant differences in correlation or linear regression to truth?",
+    "type": "extractive",
+    "source": "text"
+  },
+  "f6158d58-e4b7-40c8-b4aa-66c7f7827175": {
+    "query": "What does greater fibrosis indicate in terms of tissue parenchyma flow?",
+    "type": "abstractive",
+    "source": "text"
+  },
+  "7c70ff6e-64dc-4c2c-991b-691c77983af5": {
+    "query": "Is an eGFR less than 45 ml/min/1.73 m² considered impaired kidney function?",
+    "type": "extractive",
+    "source": "text"
+  },
+  "fa5abf3c-299a-47c8-9f78-5a03c0b7f61a": {
+    "query": "What is the purpose of using spectral diffusion in diffusion MRI?",
+    "type": "abstractive",
+    "source": "text"
+  },
+  "58ee5bb5-32d5-46cb-86ab-d571a372d0ed": {
+    "query": "What is the formula for calculating water transport time (WTT)?",
+    "type": "extractive",
+    "source": "text"
+  },
+  "72591ffb-8f73-4e37-a302-b1c848ffc507": {
+    "query": "What is the relationship between collagen deposition and fibrosis?",
+    "type": "abstractive",
+    "source": "text"
+  },
+  "f751a463-872a-45c2-9039-3ee962b4728c": {
+    "query": "Can WTT be used for quantification of flow?",
+    "type": "extractive",
+    "source": "text"
+  },
+  "62c64e6d-414f-4ffe-91fd-e95ce3f99350": {
+    "query": "What happens to the concentration of total original molecules in the voxel over time?",
+    "type": "abstractive",
+    "source": "text"
+  },
+  "df466306-e7db-44d0-bfc2-dc9c796104dc": {
+    "query": "How does intravoxel incoherent motion (IVIM) enhance diffusion MRI analysis?",
+    "type": "abstractive",
+    "source": "text"
+  },
+  "150db017-d328-4ceb-8be3-7d154d38c222": {
+    "query": "Is there a difference in performance between two-compartment and three-compartment simulations using different lambda values?",
+    "type": "extractive",
+    "source": "text"
+  },
+  "adfb5fa1-bc9a-4fac-96b1-7fe329465f36": {
+    "query": "Does the chart dataset include real financial data?",
+    "type": "extractive",
+    "source": "text"
+  },
+  "1f406ec1-1a06-46b6-8ef1-67f4485b5f33": {
+    "query": "Is PIXIU an open-source financial LLM?",
+    "type": "extractive",
+    "source": "text"
+  },
+  "f910f9d1-301f-4150-8c72-60b605cf32d6": {
+    "query": "Does the LLM make investment decisions based on retrieved memories?",
+    "type": "extractive",
+    "source": "text"
+  },
+  "5743bbb5-6efc-4f38-84c9-49f0d84ee5e0": {
+    "query": "Did investor confidence contribute to the rise in Tesla's stock price?",
+    "type": "extractive",
+    "source": "text"
+  },
+  "94c3ab96-cd40-4f11-8320-0c62ae5dfe09": {
+    "query": "Does the evaluation process involve multiple-choice questions?",
+    "type": "extractive",
+    "source": "text"
+  },
+  "ea394880-ed88-4004-a29f-56464dbf085e": {
+    "query": "Is instruction finetuning used for tailoring models for specific tasks with domain instructions?",
+    "type": "extractive",
+    "source": "text"
+  },
+  "d0b485dd-c922-40ec-903b-33c145cba9d9": {
+    "query": "Do users need to adhere to any specific license terms when using the data from Open FinLLMs?",
+    "type": "extractive",
+    "source": "text"
+  },
+  "b54940c9-1999-4860-b3fc-1c615809eed2": {
+    "query": "What is the recommended trading action for Tesla?",
+    "type": "abstractive",
+    "source": "text"
+  },
+  "0811b7ab-78f1-46c8-b1ed-f32e3792adf2": {
+    "query": "What datasets are used for sentiment analysis in the few-shot evaluations?",
+    "type": "extractive",
+    "source": "text"
+  },
+  "ef8f7ba3-78d4-4bea-bcff-4a0c3cf22f27": {
+    "query": "Does the task involve interpreting chart content?",
+    "type": "extractive",
+    "source": "text"
+  },
+  "3d106160-79d1-4f00-bb3c-d615d5f55692": {
+    "query": "Were large teams involved in measuring cosmological quantities by 1995?",
+    "type": "extractive",
+    "source": "text"
+  },
+  "6016005d-1bc0-484f-953e-a5266d480de0": {
+    "query": "Did Geoff Marcy lead the discovery of any exoplanets?",
+    "type": "extractive",
+    "source": "text"
+  },
+  "4850e9f2-69e1-4dfd-8406-4eea6d2b8e3b": {
+    "query": "What did Guth propose about the inflationary era's effect on the Universe's flatness?",
+    "type": "abstractive",
+    "source": "text"
+  },
+  "6a20772f-53e5-47c5-8be7-452ae95a029a": {
+    "query": "What does a value of $k=0$ indicate about the Universe's curvature?",
+    "type": "extractive",
+    "source": "text"
+  },
+  "ca328856-99d3-4ec5-9a0c-33768db06b8d": {
+    "query": "Did some papers focus on cold dark matter models struggling with galaxy formation timing?",
+    "type": "extractive",
+    "source": "text"
+  },
+  "c4861725-3d58-45cc-8965-84009ba573f0": {
+    "query": "How does using horizontal branch photometry compare to main-sequence turn-off in determining ages for globular clusters?",
+    "type": "abstractive",
+    "source": "text"
+  },
+  "1b6acfcc-9a2b-4849-a8ba-df2af070b9be": {
+    "query": "How early after the Big Bang did CMB measurements confirm coherence on horizon scales?",
+    "type": "extractive",
+    "source": "text"
+  },
+  "af936771-8e79-457e-925e-bf25c78d263c": {
+    "query": "What is the horizon problem related to in cosmology?",
+    "type": "extractive",
+    "source": "text"
+  },
+  "ed4eac32-a4c7-41f0-860a-c355b3b034c5": {
+    "query": "Does a model ignoring dark energy acceleration imply a universe older than its minimum age derived from stars?",
+    "type": "extractive",
+    "source": "text"
+  },
+  "0dc72239-44a4-41ad-8f0c-7696803d40da": {
+    "query": "What is the minimum estimated age of the Universe based on modern ages of globular clusters?",
+    "type": "extractive",
+    "source": "text"
+  },
+  "1f3418c5-cc0e-4ad6-84ad-414b40329a8c": {
+    "query": "Are multiple physical models considered in training machine learning for classifying acoustic cavitation?",
+    "type": "extractive",
+    "source": "text"
+  },
+  "f461aed7-0550-4ee2-afee-8e01e8b7bf83": {
+    "query": "What statistical parameters are used to analyze time series of acoustic emissions?",
+    "type": "extractive",
+    "source": "text"
+  },
+  "62b24ff8-0943-48da-97f7-4b59813a573a": {
+    "query": "Were machine learning algorithms used to predict cavitation regimes?",
+    "type": "extractive",
+    "source": "text"
+  },
+  "ae4cc375-5b88-47ac-a8c9-fd012dd2fca0": {
+    "query": "How is the irradiated pressure or acoustic emission measured in relation to a bubble?",
+    "type": "abstractive",
+    "source": "text"
+  },
+  "916ed2df-2cf1-4f6d-8bc4-8d6e0b043f51": {
+    "query": "Does the Rayleigh-Plesset model account for high-amplitude oscillations?",
+    "type": "extractive",
+    "source": "text"
+  },
+  "2b680223-d78e-4a38-ac20-b115feb2145d": {
+    "query": "What does Tait's equation represent in relation to liquids?",
+    "type": "extractive",
+    "source": "text"
+  },
+  "d3dd6df8-21ac-4f1c-9791-0c18645a448d": {
+    "query": "Does the Keller-Miksis equation include higher-order nonlinear terms?",
+    "type": "extractive",
+    "source": "text"
+  },
+  "dc94f2d6-6dff-43bf-942a-47b2b1d3949c": {
+    "query": "How are initial values used in practical applications of cavitation modeling?",
+    "type": "abstractive",
+    "source": "text"
+  },
+  "2b11e73d-bcfa-4b0f-882e-2fe6c67638bf": {
+    "query": "Does exceeding a crest factor of 7 indicate transient cavitation in acoustic emissions?",
+    "type": "extractive",
+    "source": "text"
+  },
+  "4da0a150-eae1-4cf3-880e-5985e7c82503": {
+    "query": "Does the decision tree algorithm have a lower MAE Train value than linear regression?",
+    "type": "extractive",
+    "source": "text-table"
+  },
+  "13d172a6-bb0f-44ee-9b8a-09d3abab15ac": {
+    "query": "How does dynamic similarity analysis (DSA) extend generalized shape metrics in evaluating system-level dissimilarities?",
+    "type": "abstractive",
+    "source": "text"
+  },
+  "53fe6c75-6dd1-4791-8e46-cd01c50f2d71": {
+    "query": "What is the condition for two systems to be topologically conjugate?",
+    "type": "extractive",
+    "source": "text"
+  },
+  "280dbd6d-ab21-4597-b55e-585056809d9e": {
+    "query": "How does Koopman operator theory contribute to measuring dissimilarity between nonlinear dynamical systems?",
+    "type": "abstractive",
+    "source": "text"
+  },
+  "7a122672-a348-4779-a576-66c3065461cc": {
+    "query": "Can pseudometrics for comparing dynamical systems be computed in polynomial time?",
+    "type": "extractive",
+    "source": "text"
+  },
+  "68616f54-042e-4588-9dbc-02537da69aa8": {
+    "query": "Why is it important for data-driven approaches to respect the triangle inequality when comparing dynamical systems?",
+    "type": "abstractive",
+    "source": "text"
+  },
+  "d12b71ab-e3a5-41ec-9722-5702577d027f": {
+    "query": "Can the problem be simplified by considering transformation requirements for recognizing topological conjugacy and Pareto front geometry in two-dimensional objective function space?",
+    "type": "extractive",
+    "source": "text"
+  },
+  "e5838c8d-1aa8-40d4-8512-2ca53fe16fe0": {
+    "query": "How do the norms of Gaussian process based Koopman operators compare for long term predictions?",
+    "type": "abstractive",
+    "source": "text"
+  },
+  "7167b125-b295-432b-8591-14b2e94dc02d": {
+    "query": "How is deviation from conjugacy defined mathematically?",
+    "type": "extractive",
+    "source": "text"
+  },
+  "3e5c1d35-f2ff-4358-ba78-564e89348c19": {
+    "query": "What are the primary observables in the Koopman observable vector?",
+    "type": "extractive",
+    "source": "text"
+  },
+  "a72a21f8-84dd-4045-8441-975b879bb02a": {
+    "query": "What is the purpose of conjugacy residuals in comparing dynamical systems?",
+    "type": "abstractive",
+    "source": "text"
+  },
+  "25a1385e-e1bc-44fc-a612-5672a9c795fe": {
+    "query": "Does the inverse temperature remain invariant under a Galilean boost?",
+    "type": "extractive",
+    "source": "text"
+  },
+  "2b783196-eea3-4c14-8c38-6ae88829367f": {
+    "query": "Does the GHD-Boltzmann equation include a collision integral term?",
+    "type": "extractive",
+    "source": "text"
+  },
+  "1dc1fd69-2b60-4f6a-beed-878540151e1c": {
+    "query": "Are there non-thermal stationary states possible for some collision integrals?",
+    "type": "extractive",
+    "source": "text"
+  },
+  "5a618017-ac3a-4457-8371-bf075bb2dd60": {
+    "query": "What distribution characterizes the heat-heat correlator?",
+    "type": "extractive",
+    "source": "text"
+  },
+  "f69abb6d-172d-4dfd-97af-4ab0bdcf4769": {
+    "query": "What is the significance of hydrodynamics in understanding many-body systems?",
+    "type": "abstractive",
+    "source": "text"
+  },
+  "7a43830e-8dc3-47bb-a71c-0c051de9d214": {
+    "query": "Are additional dissipative terms introduced due to charges not conserved by collision terms?",
+    "type": "extractive",
+    "source": "text"
+  },
+  "40b9bcef-8683-4f19-b8f6-057852ecc62c": {
+    "query": "What is the role of the external potential in the GHD-Boltzman equation?",
+    "type": "abstractive",
+    "source": "text"
+  },
+  "2c8a70d2-7911-4e3b-ba77-f9eadbc5b34b": {
+    "query": "Does the Chapman-Enskog method depend on the precise form of the collision integral?",
+    "type": "extractive",
+    "source": "text"
+  },
+  "09b820d0-de85-4e56-90f1-db2bf74da95e": {
+    "query": "What is the value of the bulk viscosity in the Navier-Stokes equations for a weakly perturbed ideal gas?",
+    "type": "extractive",
+    "source": "text"
+  },
+  "13780b05-af41-4e25-9c3e-2f3f0fa41c6b": {
+    "query": "What is the main idea behind the Chapman-Enskog expansion for the Boltzmann equation?",
+    "type": "abstractive",
+    "source": "text"
+  },
+  "6d1510f8-f5d9-416a-becd-c325527d5af7": {
+    "query": "How are irrelevant words handled when generating keyword conditions with GPT-4?",
+    "type": "abstractive",
+    "source": "text"
+  },
+  "6bdf082d-4321-4dbb-bc1d-14d17b99ae00": {
+    "query": "Does reversing instruction semantics help determine model understanding?",
+    "type": "extractive",
+    "source": "text"
+  },
+  "bcb178c8-a7ff-4e53-9b30-87c9a87a899a": {
+    "query": "What is the primary function of list-wise reranking models in information retrieval?",
+    "type": "abstractive",
+    "source": "text-table"
+  },
+  "b5cde038-9364-498a-a157-832a78972784": {
+    "query": "Is it difficult to determine if ranking improvement is due to instruction comprehension or keyword matching?",
+    "type": "extractive",
+    "source": "text"
+  },
+  "b45141e5-5fce-484c-98b3-ece92df2f860": {
+    "query": "What is InfoSearch used for?",
+    "type": "abstractive",
+    "source": "text"
+  },
+  "51ca04bc-2c6e-439d-a36d-ffbd993e684e": {
+    "query": "Is it acceptable for conditions to be generic or arbitrary restrictions?",
+    "type": "extractive",
+    "source": "text"
+  },
+  "80841913-76ac-4526-87f9-816c4d39e2b6": {
+    "query": "Is coherence important when creating a hard negative document?",
+    "type": "extractive",
+    "source": "text"
+  },
+  "3805a2f5-18a0-45d8-a291-dafef63b84bc": {
+    "query": "What does the Strict Instruction Compliance Ratio (SICR) metric evaluate?",
+    "type": "extractive",
+    "source": "text"
+  },
+  "30bcecd3-e89b-4019-8a20-9fcd8e8e5f39": {
+    "query": "What challenge is observed in real retrieval when instructions are applied?",
+    "type": "abstractive",
+    "source": "text"
+  },
+  "d12aa198-db3a-459f-aa13-1d57e8bc9d71": {
+    "query": "Does the Robustness@k metric effectively reflect true instruction-following performance?",
+    "type": "extractive",
+    "source": "text"
+  },
+  "75bb21a7-1f35-40d1-891f-8004e21eb83d": {
+    "query": "How is spontaneous symmetry breaking characterized for discrete symmetries?",
+    "type": "abstractive",
+    "source": "text"
+  },
+  "3bd26f55-e692-4625-ae6e-32b978f16bdd": {
+    "query": "Why is it important to study extended objects like vortices in physics models?",
+    "type": "abstractive",
+    "source": "text"
+  },
+  "64fbcb25-2390-4806-8b14-da0d75d9d3dc": {
+    "query": "Why are topological defects important for classifying states of matter?",
+    "type": "abstractive",
+    "source": "text"
+  },
+  "e3e846eb-320c-43bb-8049-dd55a1d4e85f": {
+    "query": "What is the action considered in the U(1) gauge x U(1) global model?",
+    "type": "extractive",
+    "source": "text"
+  },
+  "eaffffea-deca-45ca-9607-d410a6cacf0e": {
+    "query": "Does the $\\mathbb{Z}_{2}$ flavor symmetry break in the strong coupling regime without vortices?",
+    "type": "extractive",
+    "source": "text"
+  },
+  "79dfeb4b-662c-45af-bde3-d3317129e37c": {
+    "query": "Does the partition function change in presence of a symmetry defect?",
+    "type": "extractive",
+    "source": "text"
+  },
+  "d75f9f13-88d3-4742-8f0b-5ecd3be6f37f": {
+    "query": "In terms of degrees of freedom, what do vortices with \\( w_1 = n \\) and \\( w_2 = 1-n \\) imply?",
+    "type": "extractive",
+    "source": "text"
+  },
+  "6c7e3ba7-0967-43ed-804a-1b39e5745000": {
+    "query": "Does the text suggest that interactions with fermions might alter the phase structure of certain models?",
+    "type": "extractive",
+    "source": "text"
+  },
+  "4dd814ee-bb3f-4a6f-9438-ab424614c1a6": {
+    "query": "Can two states be distinguished through a vortex despite a crossover in bulk observables?",
+    "type": "extractive",
+    "source": "text"
+  },
+  "b6957146-85d0-471b-9783-f8f648e4c3c8": {
+    "query": "What does the winding number \\( Q(C) \\) depend on?",
+    "type": "extractive",
+    "source": "text"
+  },
+  "515b400f-49a2-45e7-b8ea-8520fee26522": {
+    "query": "How can quantum algorithms enhance medical imaging data processing?",
+    "type": "abstractive",
+    "source": "text"
+  },
+  "fbf278a3-6fe5-4431-b72c-105026329d6d": {
+    "query": "Is small data more suitable for current quantum computers compared to big data?",
+    "type": "extractive",
+    "source": "text"
+  },
+  "1d664cc7-e24c-4136-9a54-5c7fb0fa8bf9": {
+    "query": "How do variational quantum classifiers contribute to binary classification tasks?",
+    "type": "abstractive",
+    "source": "text-table"
+  },
+  "38895aa2-f373-49b6-8e2f-92fb64dd4258": {
+    "query": "Is further investigation needed to assess the effectiveness of QRC techniques on medical images after classical pre-processing?",
+    "type": "extractive",
+    "source": "text"
+  },
+  "7705bb54-317d-4829-a250-58fe38c9ad59": {
+    "query": "Are hidden Markov models (HMMs) used for EHR time series analysis?",
+    "type": "extractive",
+    "source": "text"
+  },
+  "c83baa25-6785-4c1c-a96a-b30ef7c17d28": {
+    "query": "How does quantum reservoir computing differ from recurrent neural networks (RNNs)?",
+    "type": "abstractive",
+    "source": "text"
+  },
+  "e9463d1d-5316-4d06-a977-42ef90d1aecb": {
+    "query": "Can quantum computing help in discovering early indicators of health changes?",
+    "type": "extractive",
+    "source": "text"
+  },
+  "cf317698-5503-44cd-9d2c-d7dd765479fb": {
+    "query": "Is handling noisy datasets a challenge for classical algorithms?",
+    "type": "extractive",
+    "source": "text"
+  },
+  "5fc24bd5-1795-45e7-ab15-c7a2d8810c22": {
+    "query": "Is long short-term memory (LSTM) considered state-of-the-art for handling certain challenges in time series data?",
+    "type": "extractive",
+    "source": "text"
+  },
+  "14e6d3ee-a220-431f-a5e3-8f195b54082a": {
+    "query": "Are classical machine learning methods easily applicable to omics-based time series data?",
+    "type": "extractive",
+    "source": "text"
+  },
+  "98b6f28a-7c85-4474-b87d-71e06c72ef83": {
+    "query": "How many minutes are considered in a day when transforming daily yield to per-minute rate?",
+    "type": "extractive",
+    "source": "text"
+  },
+  "249225a5-52ae-4885-91b3-55524ba952f5": {
+    "query": "Are the directional movement indicators normalized by any value?",
+    "type": "extractive",
+    "source": "text"
+  },
+  "171f45c0-c49b-49e7-a614-b72672ca6717": {
+    "query": "Is the per-minute risk-free rate derived from the daily US Treasury yield?",
+    "type": "extractive",
+    "source": "text"
+  },
+  "89beb80d-9bd6-41cf-a3ec-5ed4e164af87": {
+    "query": "How does the Sortino ratio improve upon the Sharpe ratio in assessing portfolio performance?",
+    "type": "abstractive",
+    "source": "text-table"
+  },
+  "37153a2d-1089-404b-9dd6-b4b15932d3b3": {
+    "query": "What does the Exponential Moving Average (EMA) place more weight on?",
+    "type": "extractive",
+    "source": "text"
+  },
+  "3db6f40a-4744-401f-8c02-041db59e13a6": {
+    "query": "Does Chikou Span provide a leading or lagging indication of price action?",
+    "type": "extractive",
+    "source": "text"
+  },
+  "c6d4ecf6-221d-46f7-80a0-5a9d93043b80": {
+    "query": "What does the Simple Moving Average (SMA) do to price data?",
+    "type": "abstractive",
+    "source": "text"
+  },
+  "8b2df3d4-077d-4e7c-bda5-0a3f1834d9cd": {
+    "query": "Does the RSI range from 0 to 100?",
+    "type": "extractive",
+    "source": "text"
+  },
+  "ca7648f0-d919-4ee7-9046-c5b7b9ddb47f": {
+    "query": "What does WROBV stand for in high-frequency trading?",
+    "type": "extractive",
+    "source": "text"
+  },
+  "056d6bd3-24e2-44dd-a56b-7633752bd87e": {
+    "query": "What is the formula for calculating log returns in financial time series?",
+    "type": "extractive",
+    "source": "text"
+  },
+  "437d4c98-2b83-4a5a-ab62-77ad651187b0": {
+    "query": "What is the significance of quasi-thermostatic CRN in chemical reaction networks?",
+    "type": "abstractive",
+    "source": "text"
+  },
+  "e480153c-529c-45fd-95de-c7336ac9c872": {
+    "query": "How does the concept of absolute sensitivity differ from traditional sensitivity analysis in CRNs?",
+    "type": "abstractive",
+    "source": "text"
+  },
+  "1b4d4eeb-b2d9-4e5b-b3e5-fd52badb184c": {
+    "query": "Under what condition does a complex balanced CRN mimic an irreversible CRN with absolute concentration robustness?",
+    "type": "extractive",
+    "source": "text"
+  },
+  "eb066821-18b2-49ce-aaa4-303d3316c382": {
+    "query": "Does the class of quasi-thermostatic CRN include equilibrium chemical reaction networks?",
+    "type": "extractive",
+    "source": "text"
+  },
+  "fb3dddca-07d8-4d90-8439-6fa4d12b1e69": {
+    "query": "Is the chemical reaction network sensitive in $X_{4}$ when $r$ is close to 0?",
+    "type": "extractive",
+    "source": "text"
+  },
+  "eaffc3c2-7c2b-492c-8440-71de02d4aa99": {
+    "query": "Is it possible to achieve a steady state point that satisfies complex balancing by adjusting kinetic parameters?",
+    "type": "extractive",
+    "source": "text"
+  },
+  "e04baf44-f0ca-46dd-aaa3-d78f3d0613b5": {
+    "query": "Are there significant differences in absolute sensitivity between conditions where $\\epsilon=0.01$ and $\\epsilon=0.1$?",
+    "type": "extractive",
+    "source": "text"
+  },
+  "a9d388b8-7871-4cf7-8406-87294f10b46a": {
+    "query": "What condition is required for absolute concentration robustness in the chemical reaction network?",
+    "type": "extractive",
+    "source": "text"
+  },
+  "37e267c7-f836-468f-8f82-69ace5ac7e55": {
+    "query": "What is the formula for absolute sensitivity in the case of complex balancing?",
+    "type": "extractive",
+    "source": "text"
+  }
+}

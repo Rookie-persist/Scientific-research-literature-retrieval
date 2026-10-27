@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "haiku-rag-m1-query"
+version = "0.1.0"
+description = "M1 query understanding hook for haiku.rag: acronym expansion + corpus coverage gate"
+requires-python = ">=3.11"
+dependencies = ["haiku.rag"]
+
+[project.entry-points."haiku.rag.hooks"]
+m1-query = "m1_query.hook:create"
+
+[tool.setuptools.packages.find]
+where = ["src"]

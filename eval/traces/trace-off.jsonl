@@ -1,0 +1,26 @@
+{"original": "What does SICR measure?", "rewritten": "What does SICR measure? [SICR (Strict Instruction Compliance Ratio)]", "expansions": ["SICR (Strict Instruction Compliance Ratio)"], "unknown_terms": [], "policy": false, "limit": 3}
+{"original": "What is Strict Instruction Compliance Ratio?", "rewritten": "What is Strict Instruction Compliance Ratio? [SICR]", "expansions": ["SICR"], "unknown_terms": [], "policy": false, "limit": 3}
+{"original": "What is NER?", "rewritten": "What is NER? [NER (Spoken Named Entity Recognition)]", "expansions": ["NER (Spoken Named Entity Recognition)"], "unknown_terms": [], "policy": "off", "limit": 5}
+{"original": "What is Spoken Named Entity Recognition?", "rewritten": "What is Spoken Named Entity Recognition? [NER]", "expansions": ["NER"], "unknown_terms": [], "policy": "off", "limit": 5}
+{"original": "What is WISE?", "rewritten": "What is WISE? [WISE (Weighted Instruction Sensitivity Evaluation)]", "expansions": ["WISE (Weighted Instruction Sensitivity Evaluation)"], "unknown_terms": [], "policy": "off", "limit": 5}
+{"original": "What is Weighted Instruction Sensitivity Evaluation?", "rewritten": "What is Weighted Instruction Sensitivity Evaluation? [WISE]", "expansions": ["WISE"], "unknown_terms": [], "policy": "off", "limit": 5}
+{"original": "What is SICR?", "rewritten": "What is SICR? [SICR (Strict Instruction Compliance Ratio)]", "expansions": ["SICR (Strict Instruction Compliance Ratio)"], "unknown_terms": [], "policy": "off", "limit": 5}
+{"original": "What is Strict Instruction Compliance Ratio?", "rewritten": "What is Strict Instruction Compliance Ratio? [SICR]", "expansions": ["SICR"], "unknown_terms": [], "policy": "off", "limit": 5}
+{"original": "What is PSID81?", "rewritten": "What is PSID81? [PSID81 (Panel Study of Income Dynamics)]", "expansions": ["PSID81 (Panel Study of Income Dynamics)"], "unknown_terms": [], "policy": "off", "limit": 5}
+{"original": "What is Panel Study of Income Dynamics?", "rewritten": "What is Panel Study of Income Dynamics? [PSID]", "expansions": ["PSID"], "unknown_terms": [], "policy": "off", "limit": 5}
+{"original": "What is LMM?", "rewritten": "What is LMM? [LMM (Large Multimodal Models)]", "expansions": ["LMM (Large Multimodal Models)"], "unknown_terms": [], "policy": "off", "limit": 5}
+{"original": "What is Large Multimodal Models?", "rewritten": "What is Large Multimodal Models? [LMM]", "expansions": ["LMM"], "unknown_terms": [], "policy": "off", "limit": 5}
+{"original": "What is AAD?", "rewritten": "What is AAD? [AAD (Absent Answer Detection)]", "expansions": ["AAD (Absent Answer Detection)"], "unknown_terms": [], "policy": "off", "limit": 5}
+{"original": "What is Absent Answer Detection?", "rewritten": "What is Absent Answer Detection? [AAD]", "expansions": ["AAD"], "unknown_terms": [], "policy": "off", "limit": 5}
+{"original": "What is IVQD?", "rewritten": "What is IVQD? [IVQD (Incompatible Visual Question Detection)]", "expansions": ["IVQD (Incompatible Visual Question Detection)"], "unknown_terms": [], "policy": "off", "limit": 5}
+{"original": "What is Incompatible Visual Question Detection?", "rewritten": "What is Incompatible Visual Question Detection? [IVQD]", "expansions": ["IVQD"], "unknown_terms": [], "policy": "off", "limit": 5}
+{"original": "What is IASD?", "rewritten": "What is IASD? [IASD (Incompatible Answer Set Detection)]", "expansions": ["IASD (Incompatible Answer Set Detection)"], "unknown_terms": [], "policy": "off", "limit": 5}
+{"original": "What is Incompatible Answer Set Detection?", "rewritten": "What is Incompatible Answer Set Detection? [IASD]", "expansions": ["IASD"], "unknown_terms": [], "policy": "off", "limit": 5}
+{"original": "What is UPD?", "rewritten": "What is UPD? [UPD (Unsolvable Problem Detection)]", "expansions": ["UPD (Unsolvable Problem Detection)"], "unknown_terms": [], "policy": "off", "limit": 5}
+{"original": "What is Unsolvable Problem Detection?", "rewritten": "What is Unsolvable Problem Detection? [UPD]", "expansions": ["UPD"], "unknown_terms": [], "policy": "off", "limit": 5}
+{"original": "What is PSID?", "rewritten": "What is PSID? [PSID (Panel Study of Income Dynamics)]", "expansions": ["PSID (Panel Study of Income Dynamics)"], "unknown_terms": [], "policy": "off", "limit": 5}
+{"original": "What is Panel Study of Income Dynamics?", "rewritten": "What is Panel Study of Income Dynamics? [PSID]", "expansions": ["PSID"], "unknown_terms": [], "policy": "off", "limit": 5}
+{"original": "What is TBA?", "rewritten": "What is TBA? [TBA (Thermodynamic Bethe Ansatz)]", "expansions": ["TBA (Thermodynamic Bethe Ansatz)"], "unknown_terms": [], "policy": "off", "limit": 5}
+{"original": "What is Thermodynamic Bethe Ansatz?", "rewritten": "What is Thermodynamic Bethe Ansatz? [TBA]", "expansions": ["TBA"], "unknown_terms": [], "policy": "off", "limit": 5}
+{"original": "What is RFR?", "rewritten": "What is RFR? [RFR (Random Forest Regression)]", "expansions": ["RFR (Random Forest Regression)"], "unknown_terms": [], "policy": "off", "limit": 5}
+{"original": "What is Random Forest Regression?", "rewritten": "What is Random Forest Regression? [RFR]", "expansions": ["RFR"], "unknown_terms": [], "policy": "off", "limit": 5}

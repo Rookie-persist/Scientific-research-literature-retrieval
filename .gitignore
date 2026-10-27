@@ -1,0 +1,20 @@
+# 虚拟环境与构建产物
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+
+# 运行时生成，不入库
+models/
+dbs/
+pdfs/
+logs/
+Modelfile
+m1/trace-*.jsonl
+
+# 系统文件
+.DS_Store
+Thumbs.db

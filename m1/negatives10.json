@@ -1,0 +1,12 @@
+[
+ {"qid":"neg1","question":"What dosage of metformin is recommended for type 2 diabetes?"},
+ {"qid":"neg2","question":"Who won the 2022 FIFA World Cup final?"},
+ {"qid":"neg3","question":"What speedup does FlashAttention-3 report on H100 GPUs?"},
+ {"qid":"neg4","question":"What is the melting point of tungsten in degrees Celsius?"},
+ {"qid":"neg5","question":"What is the recommended first-line treatment for hypertension in adults?"},
+ {"qid":"neg6","question":"How many moons does Jupiter have?"},
+ {"qid":"neg7","question":"What is the capital of Australia?"},
+ {"qid":"neg8","question":"What are the symptoms of vitamin D deficiency?"},
+ {"qid":"neg9","question":"How do I bake sourdough bread at home?"},
+ {"qid":"neg10","question":"What was the inflation rate in the United States in 1997?"}
+]

@@ -1,0 +1,167 @@
+{
+ "source": "corpus",
+ "db": "./dbs/smoke.lancedb",
+ "min_occurrences": 3,
+ "acronyms": {
+  "NER": {
+   "expansion": "Spoken Named Entity Recognition",
+   "definitions": 1,
+   "occurrences": 1086
+  },
+  "ASR": {
+   "expansion": "Automatic Speech Recognition",
+   "definitions": 2,
+   "occurrences": 840
+  },
+  "WISE": {
+   "expansion": "Weighted Instruction Sensitivity Evaluation",
+   "definitions": 3,
+   "occurrences": 568
+  },
+  "SICR": {
+   "expansion": "Strict Instruction Compliance Ratio",
+   "definitions": 3,
+   "occurrences": 444
+  },
+  "PSID81": {
+   "expansion": "Panel Study of Income Dynamics",
+   "definitions": 1,
+   "occurrences": 292
+  },
+  "LLM": {
+   "expansion": "Large Language Models",
+   "definitions": 4,
+   "occurrences": 251
+  },
+  "LMM": {
+   "expansion": "Large Multimodal Models",
+   "definitions": 2,
+   "occurrences": 233
+  },
+  "AAD": {
+   "expansion": "Absent Answer Detection",
+   "definitions": 4,
+   "occurrences": 113
+  },
+  "IVQD": {
+   "expansion": "Incompatible Visual Question Detection",
+   "definitions": 5,
+   "occurrences": 111
+  },
+  "IASD": {
+   "expansion": "Incompatible Answer Set Detection",
+   "definitions": 4,
+   "occurrences": 100
+  },
+  "UPD": {
+   "expansion": "Unsolvable Problem Detection",
+   "definitions": 3,
+   "occurrences": 92
+  },
+  "PSID": {
+   "expansion": "Panel Study of Income Dynamics",
+   "definitions": 2,
+   "occurrences": 42
+  },
+  "TBA": {
+   "expansion": "Thermodynamic Bethe Ansatz",
+   "definitions": 2,
+   "occurrences": 21
+  },
+  "RFR": {
+   "expansion": "Random Forest Regression",
+   "definitions": 1,
+   "occurrences": 21
+  },
+  "CR": {
+   "expansion": "Complete Randomization",
+   "definitions": 1,
+   "occurrences": 19
+  },
+  "NLSY": {
+   "expansion": "National Longitudinal Survey of Youth",
+   "definitions": 1,
+   "occurrences": 18
+  },
+  "SBR": {
+   "expansion": "Stratified Block Randomization",
+   "definitions": 1,
+   "occurrences": 15
+  },
+  "SOC": {
+   "expansion": "Standard Occupational Classification",
+   "definitions": 1,
+   "occurrences": 15
+  },
+  "NLP": {
+   "expansion": "Natural Language Processing",
+   "definitions": 1,
+   "occurrences": 14
+  },
+  "EMA": {
+   "expansion": "Exponential Moving Average",
+   "definitions": 1,
+   "occurrences": 12
+  },
+  "RSI": {
+   "expansion": "Relative Strength Index",
+   "definitions": 1,
+   "occurrences": 10
+  },
+  "RMSE": {
+   "expansion": "Root Mean Squared Error",
+   "definitions": 1,
+   "occurrences": 10
+  },
+  "CT": {
+   "expansion": "Central Time",
+   "definitions": 1,
+   "occurrences": 8
+  },
+  "MAE": {
+   "expansion": "Mean Absolute Error",
+   "definitions": 1,
+   "occurrences": 8
+  },
+  "CDM": {
+   "expansion": "Cold Dark Matter",
+   "definitions": 1,
+   "occurrences": 7
+  },
+  "QA": {
+   "expansion": "Question Answering",
+   "definitions": 1,
+   "occurrences": 6
+  },
+  "EMH": {
+   "expansion": "Efficient Market Hypothesis",
+   "definitions": 3,
+   "occurrences": 6
+  },
+  "CCI": {
+   "expansion": "Commodity Channel Index",
+   "definitions": 2,
+   "occurrences": 5
+  },
+  "FOCS": {
+   "expansion": "Annual Symposium on Foundations of Computer Science",
+   "definitions": 1,
+   "occurrences": 4
+  },
+  "SODA": {
+   "expansion": "Annual ACM-SIAM Symposium on Discrete Algorithms",
+   "definitions": 1,
+   "occurrences": 4
+  },
+  "BB": {
+   "expansion": "Bollinger Bands",
+   "definitions": 1,
+   "occurrences": 4
+  },
+  "FA": {
+   "expansion": "Fractional Anisotropy",
+   "definitions": 3,
+   "occurrences": 3
+  }
+ }
+}

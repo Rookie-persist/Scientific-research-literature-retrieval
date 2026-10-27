@@ -1,0 +1,74 @@
+# haiku.rag 配置：开发档（D0–D8 默认使用）
+#
+# 与 haiku.rag.final.yaml 的唯一差别在解析质量：本档用 pypdfium2 + fast 表格 + 1.0 图像，
+# 换取更快的摄取；嵌入模型两档保持一致（bge-small，384 维），避免因换嵌入器而额外重建。
+#
+# 用法：在 orb_subset/ 目录下执行命令，会自动读取本文件（文件名必须是 haiku.rag.yaml）。
+# 用最终档时显式指定：haiku-rag --config haiku.rag.final.yaml <command>
+
+environment: production
+
+embeddings:
+  model:
+    # 本地推理，进程内加载，不依赖 Ollama 服务。
+    # 关键约束：嵌入模型在建库时固定，之后换 provider / 模型 / 维度都会导致
+    # 可写打开失败（ConfigMismatchError）。改这一项 = 重建数据库。
+    provider: sentence-transformers
+    # 指向本地目录：本机 huggingface_hub 缓存无法创建快照符号链接，
+    # 用仓库 ID 会下载成功但快照目录为空，加载时报 tokenizer 错误。
+    # 目录由 scripts/fetch_models.py 用 local_dir 模式下载。
+    name: ./models/bge-small-en-v1.5
+    # 384 维，与 bge-small 一致。写错会在打开库时报错，不会静默降级。
+    vector_dim: 384
+    # 注意：sentence-transformers provider 不接受 query_prefix / document_prefix，
+    # 设置会直接抛异常。bge v1.5 本身不强制要求检索指令，因此留空。
+
+qa:
+  model:
+    provider: ollama
+    # 用 16k 上下文 + presence_penalty 0 的变体：Ollama 运行时默认 num_ctx 仅 4096，
+    # 装不下 10 KB 系统提示 + 检索块，模型会丢失问题；模型自带 presence_penalty 1.5
+    # 会惩罚问题中的词、导致话题漂移（均为 D1 实测）。
+    # 由 `ollama create qwen35-9b-16k` 从 qwen3.5:9b-q4_K_M 派生。
+    name: qwen35-9b-16k
+    # 必须显式关闭：该模型默认开思考模式，会把 token 预算全部用于推理，
+    # 导致 response 为空（实测 num_predict=120 仍返回空串，done_reason=length）。
+    thinking: false
+    temperature: 0.3
+    # 纯文本模型；置 true 会把图片字节附给不支持视觉的模型。
+    vision: false
+    max_tokens: 4096
+
+processing:
+  converter: docling-local
+  chunk_size: 256
+  chunker_type: hybrid
+  chunking_merge_peers: true
+  # 分词器同样指向本地目录，避免同一个符号链接问题。
+  chunking_tokenizer: ./models/bge-small-en-v1.5
+  # Docling 在长进程中有内存泄漏；大 PDF 分片解析，代价是每个边界约损失 1 项 + 1 chunk。
+  split_pages: 10
+
+  conversion_options:
+    # 开发档：更快，但版面细节少于 docling_parse，引用框定位精度略低。
+    pdf_backend: pypdfium2
+    # arXiv PDF 自带文本层，OCR 纯属浪费；仅对解析为空的文档单独开 force_ocr。
+    do_ocr: false
+    force_ocr: false
+    do_table_structure: true
+    # 开发档用 fast；最终档用 accurate。
+    table_mode: fast
+    # 页面图是体积主因，但 visualize_chunk 依赖它，不能关。
+    images_scale: 1.0
+    generate_page_images: true
+
+search:
+  limit: 5
+  max_context_chars: 5000
+  rerank_pool_factor: 10
+
+storage:
+  auto_vacuum: true
+  vacuum_retention_seconds: 86400
+  # 默认 2 GiB；降到 1 GiB 压低 vacuum 峰值内存，代价是碎片更多。
+  compaction_target_bytes: 1073741824

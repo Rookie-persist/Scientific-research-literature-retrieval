@@ -1,0 +1,12 @@
+{
+  "questions": 10,
+  "errors": 0,
+  "orb_questions": 0,
+  "citation_rate": null,
+  "page_rate": null,
+  "latency_mean_s": 23.42,
+  "latency_p50_s": 17.34,
+  "latency_max_s": 60.98,
+  "negatives_refused": 10,
+  "negatives_total": 10
+}
